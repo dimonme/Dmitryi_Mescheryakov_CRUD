@@ -1,2 +1,2 @@
-# Repository-28-02
+﻿# Dmitryi_Mescheryakov 
 Для запуска необходимо в Lifecycle запустить package. Использовал Tomcat 8.5.9. При запуске в Tomcat из intellij IDEA, поле Application Context оставить пустым.  Запускаться по умолчанию на: http://localhost:8080/ Скрип для создания БД и скрип для заполнения данными лежат в каталоге BD - файл test.sql user = password = root .  Если возникнут проблемы - прошу сообщить d200000@mail.ru  Created by Dmitryi_Mescheryakov 
